@@ -1,6 +1,8 @@
 # DiGiVOR
 DiGiCo OSC converter and formatter for getvor.app
 
+DiGiVOR is only supported on MacOS currently. Testing has only been done on Apple Silicon using MacOS Monterey
+
 ## Install
 Download and unzip DiGiVOR.zip, then move application to the computers application folder. (Unexpected performace may come up if placed somewhere else.)
 
