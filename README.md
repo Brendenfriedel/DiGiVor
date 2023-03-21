@@ -1,6 +1,7 @@
 # DiGiVor
 
 DIGIVOR IS NOT READY FOR COMMERICAL USE. IT IS STILL IN BETA AS IT HAS NOT BEEN TESTED ON CONSOLES OTHER THAN SD10. IF YOU WOULD LIKE TO HELP BETA TEST, PLEASE REACH OUT. 
+
 DiGiCo OSC converter and formatter for getvor.app
 
 DiGiVor is only supported on MacOS currently. Testing has only been done on Apple Silicon using MacOS Monterey
