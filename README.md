@@ -1,8 +1,5 @@
 # DiGiVor
 
-DIGIVOR IS NOT READY FOR COMMERCIAL USE. IT IS STILL IN BETA AS IT HAS NOT BEEN TESTED ON CONSOLES OTHER THAN SD10. IF YOU WOULD LIKE TO HELP BETA TEST, PLEASE REACH OUT. 
-
-
 DiGiCo OSC converter and formatter for [getvor.app](https://getvor.app)
 
 DiGiVor is only supported on MacOS currently. Testing has only been done on Apple Silicon using MacOS Monterey. To view hardware requriements, please visit [docs.getvor.app](https://docs.getvor.app/vor/minimum-requirements-1080p)
@@ -46,5 +43,8 @@ Make sure commands were loaded for ipad_SDv2 or ipad_Q.
 DiGiCo SD10
 DiGiCo SD9
 DiGiCo SD8
+DiGiCo SD7
 DiGiCo SD11i
 DiGiCo Q225
+DiGiCo Q338
+
