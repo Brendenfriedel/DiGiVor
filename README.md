@@ -1,5 +1,7 @@
 # DiGiVor
 
+PLEASE NOTE DIGIVOR IS CURRENTLY IN THE PROCESS OF BEING UPDATED AND MIGRATED TO A DIFFERENT PLATFORM. PLEASE STANDBY. IF YOU NEED A IMMEDIATE COPY, PLEASE GET IN TOUCH WITH ME VIA MY WEBSITE brendenfriedel.com
+
 DiGiCo OSC converter and formatter for [getvor.app](https://getvor.app)
 
 DiGiVor is only supported on MacOS currently. Testing has only been done on Apple Silicon using MacOS Monterey. To view hardware requriements, please visit [docs.getvor.app](https://docs.getvor.app/vor/minimum-requirements-1080p)
