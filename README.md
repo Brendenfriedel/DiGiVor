@@ -12,7 +12,7 @@ visit [Releases](http://github.com/Brendenfriedel/DiGiVor/releases) and download
 | :--------------------------|:-------------------------|:--------|
 |Output 1-24                 | /DiGiVor/Output/{number} |{Output Type} (ie CG, Input, etc), {Output Name}, {Output Level}, {Output Mute Status} |
 |Console Info                | /DiGiVor/Output/Console  | {Console Name}, {Session Title} |
-|Snapshot Info               | /DiGiVor/Output/Snapshots| {Snapshot Number}, {Snapshot Name} |
+|Snapshot Info               | /DiGiVor/Outputs/Snapshots| {Snapshot Number}, {Snapshot Name} |
 
 ## Setup
 
