@@ -35,3 +35,15 @@ If the DiGiVor does not connect, confirm your network settings are correct and y
 
 Make sure commands were loaded for ipad_SDv2 or ipad_Q.
 
+## Commands
+| Name                       | Command               |
+| :--------------------------|:----------------------|
+| New File                   | cmd+n
+| Save Settings              | cmd+s
+| Save Settings As           | shift+cmd+s
+| Open Settings              | cmd+o
+| Load Last Settings         | cmd+l
+| Patch Window               | cmd+i
+| Ripple Patch               | cmd+r
+| Clear Patch                | cmd+e
+| Default Patch              | cmd+u
